@@ -6,10 +6,5 @@ HTML5,CSS3
 ,JAVASCRIPT
 
 
-APLIKASI SISTEM PAKAR MENGGUNAKAN METODE BACKWARD CHAINING UNTUK MENDIAGNOSA PENYAKIT KUCING
+APLIKASI SISTEM PAKAR MENGGUNAKAN METODE FORWARD CHAINING DIAGNOSA PENYAKIT DIABETES MELITUS
 --------------------------------------------------------------------------------------------
-
-instalasi 
-ketik di terminal dengan composer install didalam directory 
-install database
-pada bagian aplikasi/config/ ganti base url dengan url http://localhost/diagnosaKucing
